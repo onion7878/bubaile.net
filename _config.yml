@@ -1,0 +1,11 @@
+# Custom Configuration
+title: 不摆了
+author: Hanlin
+
+# Default Configuration
+host: 0.0.0.0
+excerpt_separator: <!-- more -->
+markdown: kramdown
+
+redcarpet: 
+  extensions: [footnotes, fenced_code_blocks, no_intra_emphasis]
