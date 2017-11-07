@@ -3,7 +3,7 @@ layout: default
 ---
 
 <nav>
-	<ul class="nav-list no-padding gray-color">
+	<ul class="nav-list no-padding gray-color text-center">
 	{% for post in site.posts %}
 		{% if post.categories contains 'dream' %}
 			{% continue %}
@@ -18,9 +18,9 @@ layout: default
 			{% continue %}
 		{% endif %}
 		<li class=""> 
-		<time class="font-date" datetime="{{ post.date }}" title="{{ post.date }}">{{ post.date | date:"%d %b %Y" }}</time>
+		<!-- <time class="font-date" datetime="{{ post.date }}" title="{{ post.date }}">{{ post.date | date:"%d %b %Y" }}</time> -->
 		<span>»</span>
-		<a class="font-open-sans" href="{{ post.url }}">{{ post.title }}</a>
+		<a class="font-open-sans text-center" href="{{ post.url }}">{{ post.title }}</a>
 		</li>
 	{% endfor %}
 	</ul>
