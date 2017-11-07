@@ -4,7 +4,7 @@ layout: post
 title: 所以我们也有了
 date: 17-11-07 09:58:41
 tags: []
-categories: []
+categories: [life]
 
 ---
 
