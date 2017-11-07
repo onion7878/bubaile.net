@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "#1 所以我们也 有 vlog  了"
+title: "#1 所以我们也有 vlog  了"
 date: 17-11-06 09:58:41
 tags: [播客]
 categories: [life]
