@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "#1 所以我们也有 vlog  了"
+title: "#1 所以我们也有 vlog 了"
 date: 17-11-06 09:58:41
 tags: [播客]
 categories: [life]
@@ -9,6 +9,8 @@ categories: [life]
 ---
 
 「Technology is the campfire around which we tell our stories」如果这档播客节目能成为那堆篝火，我们就很满意了。
+
+本期节目：[网易云音乐 - 不摆了 #1 所以我们也有 vlog 了](http://music.163.com/#/m/dj?id=910630100)
 
 ### 相关链接
 
