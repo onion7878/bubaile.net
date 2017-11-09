@@ -106,6 +106,7 @@ figcaption {
 .img-logo {
 	all:initial;
 	display: block;
+	width: 128px;
 	margin-top: 3em;
 	margin-bottom: 3em;
 	margin-left: auto;
