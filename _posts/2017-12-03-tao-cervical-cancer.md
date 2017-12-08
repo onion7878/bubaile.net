@@ -19,7 +19,7 @@ categories: [life]
 
 ### 人物简介
 
-- 文涛：某公司 co-founder
+- 文涛：患者家属（某公司 co-founder）
 - Lijia：爱喝啤酒力量大
 - Hanlin：正努力讲普通话
 
