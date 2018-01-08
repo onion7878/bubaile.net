@@ -10,6 +10,8 @@ categories: [life]
 
 我们看着 2017 年拍的照片回顾了我们过去十二个月里做的事情。
 
+节目链接：[网易云音乐 - 不摆了 #9 回望，我们的 2017](http://music.163.com/#/program?id=1367582722)
+
 ### 相关链接
 
 -[ UP 主 cbvivi（王晓光）](https://space.bilibili.com/224335#/video)
