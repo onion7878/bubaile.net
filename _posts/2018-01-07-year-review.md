@@ -14,7 +14,7 @@ categories: [life]
 
 ### 相关链接
 
--[ UP 主 cbvivi（王晓光）](https://space.bilibili.com/224335#/video)
+- [ UP 主 cbvivi（王晓光）](https://space.bilibili.com/224335#/video)
 - [VLOG 062：2018 年可以做的三件事](https://www.bilibili.com/video/av17820533/)
 - [Hanlin newsletter](http://eepurl.com/cB0nl9)
 - [Hanlin newsletter Archive](https://us15.campaign-archive.com/home/?u=74e7f2fc4c958b5a8d2e89619&id=e58e75928c)
