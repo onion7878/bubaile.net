@@ -18,6 +18,7 @@ categories: [life]
 - [GarageBand](https://www.apple.com/mac/garageband/)
 - [如何让视频的音量大小符合专业规范](http://doyoudo.com/p/5001073.html)
 - [桔梗谣(道拉基)](http://music.163.com/#/m/song?id=233696)
+- [Ask HN: 2018 resolutions?](https://news.ycombinator.com/item?id=16044255)
 - [IPN 录音指南](https://blog.yitianshijie.net/2017/10/13/ipn-guide-to-podcast-recording/)
 
 ### 人物简介
