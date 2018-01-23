@@ -8,7 +8,9 @@ categories: [life]
 
 ---
 
-后期中...
+这期我们请到了色情男主播邢老师和可能是全北京最好的 91 年出生的少数民族四分卫的万老师跟我们聊聊橄榄球；前半部分给大家简单普及了下橄榄球的规则，后半部分讨论了今年超级碗会师的两只球队晋级过程以及大家都看好那只球队，希望没接触过橄榄球的朋友和球迷都能在本期节目中有所收获。
+
+节目链接：录音完成，后期制作中...
 
 ### 相关链接
 
@@ -27,6 +29,7 @@ categories: [life]
 - [Lady Gaga's FULL Pepsi Zero Sugar Super Bowl LI Halftime Show - NFL](https://www.youtube.com/watch?v=txXwg712zw4)
 - [有哪些有创意、经典的超级碗广告？他们有何精彩之处？ - 知乎](https://www.zhihu.com/question/50362155)
 - [NFL - 腾讯体育直播](http://kbs.sports.qq.com/#nfl)
+- [Kris Wu - Wikipedia](https://en.wikipedia.org/wiki/Kris_Wu)
 - [kylar Grey](http://music.163.com/#/artist?id=74801)
 - [如何在不懂规则的情况下欣赏美式橄榄球](http://www.nflchina.com/news/detail/1978644.html)
 - [选·美 #23: 你所不知道的美式橄榄球](https://xuanmei.us/23)
