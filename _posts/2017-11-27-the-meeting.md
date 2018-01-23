@@ -3,8 +3,8 @@
 layout: post
 title: "#3 能让你想起高中的样子就不摆了"
 date: 17-11-27 8:53:16
-tags: [播客]
-categories: [life]
+tags: [单口节目]
+categories: [podcast]
 
 ---
 

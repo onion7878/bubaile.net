@@ -3,8 +3,8 @@
 layout: post
 title: "#11 2018 超级碗指南"
 date: 18-01-22 23:13:12
-tags: [播客]
-categories: [life]
+tags: [有嘉宾, 普通话]
+categories: [podcast]
 
 ---
 

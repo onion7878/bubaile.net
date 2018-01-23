@@ -3,8 +3,8 @@
 layout: post
 title: "#9 回望，我们的 2017"
 date: 18-01-06 20:29:45
-tags: [播客]
-categories: [life]
+tags: [主播对聊, 四川话]
+categories: [podcast]
 
 ---
 

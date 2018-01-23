@@ -3,8 +3,8 @@
 layout: post
 title: "#5 一个宫颈癌患者家属的自述"
 date: 17-12-03 15:33:52
-tags: [播客]
-categories: [life]
+tags: [有嘉宾, 四川话]
+categories: [podcast]
 
 ---
 

@@ -3,8 +3,8 @@
 layout: post
 title: "#10 如何制作一期播客"
 date: 18-01-15 21:55:48
-tags: [播客]
-categories: [life]
+tags: [有嘉宾, 普通话, 朴老师]
+categories: [podcast]
 
 ---
 

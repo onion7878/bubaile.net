@@ -3,8 +3,8 @@
 layout: post
 title: "#1 所以我们也有 vlog 了"
 date: 17-11-06 09:58:41
-tags: [播客]
-categories: [life]
+tags: [主播对聊, 四川话]
+categories: [podcast]
 
 ---
 
