@@ -3,7 +3,7 @@
 layout: post
 title: "#2 「贝塔」教练冯铁木"
 date: 17-11-12 22:55:11
-tags: [有嘉宾, 四川话]
+tags: [男嘉宾, 四川话]
 categories: [podcast]
 
 ---
