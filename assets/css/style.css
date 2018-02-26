@@ -104,7 +104,6 @@ figcaption {
 }
 
 .img-logo {
-	all:initial;
 	display: block;
 	width: 128px;
 	margin-top: 3em;
@@ -177,6 +176,10 @@ figcaption {
 
 .margin-bottom-1em {
 	margin-bottom: 1em;
+}
+
+.margin-bottom-footer {
+	margin-bottom: 3px;
 }
 
 .padding-bottom-1em {
