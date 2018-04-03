@@ -12,7 +12,6 @@ categories: [podcast]
 
 节目链接：[网易云音乐 - 不摆了 #16 转行和 IT 培训](http://music.163.com/#/program?id=1368583277)
 
-
 ### 内容提要
 
 - 00:01:25 kuang 的背景

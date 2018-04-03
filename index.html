@@ -5,6 +5,9 @@ layout: default
 <nav>
 	<ul class="nav-list no-padding gray-color text-center">
 	{% for post in site.posts %}
+		{% if post.categories contains 'draft' %}
+			{% continue %}
+		{% endif %}
 		<li> 
 		<span>»</span>
 		<a class="font-open-sans text-center" href="{{ post.url }}">{{ post.title }}</a>
