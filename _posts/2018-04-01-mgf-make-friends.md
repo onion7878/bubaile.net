@@ -4,7 +4,7 @@ layout: post
 title: "#18 三个麦高芬・你会跟讨厌的人交朋友吗？"
 date: 18-04-01 19:38:20
 tags: [普通话, 麦高芬]
-categories: [draft]
+categories: [podcast]
 
 ---
 

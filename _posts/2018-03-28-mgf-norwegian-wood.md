@@ -1,10 +1,10 @@
 ---
 
 layout: post
-title: "#17 三个麦高芬・二十七岁的我端坐在空客 A380-800 客机上"
+title: "#17 三个麦高芬・二十七岁的我端坐在空客 A380 客机上"
 date: 18-03-28 19:38:20
 tags: [普通话, 麦高芬]
-categories: [draft]
+categories: [podcast]
 
 ---
 

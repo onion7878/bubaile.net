@@ -4,7 +4,7 @@ layout: post
 title: "#19 三个麦高芬・游泳不带表"
 date: 18-04-02 19:38:20
 tags: [四川话, 麦高芬]
-categories: [draft]
+categories: [podcast]
 
 ---
 
