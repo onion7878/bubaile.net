@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "[番外] 三个麦高芬 #1 一个韩国人的德语方言告白"
+title: "三个麦高芬 #1 一个韩国人的德语方言告白"
 date: 18-04-13 15:41:13
 tags: [普通话, 麦高芬]
 categories: [podcast]
