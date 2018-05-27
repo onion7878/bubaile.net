@@ -1,0 +1,50 @@
+---
+
+layout: post
+title: "#22 保护神奇动物"
+date: 18-05-27 14:01:45
+tags: [普通话, 男嘉宾]
+categories: [draft]
+
+---
+
+这周我们找来了在成都开工作室的畅畅和老王，一起聊聊他们正在做的事。
+
+### 相关链接
+
+- [上海交通大学](http://www.sjtu.edu.cn/)
+- [不列颠哥伦比亚大学 - Wiki](https://zh.wikipedia.org/wiki/%E4%B8%8D%E5%88%97%E9%A1%9B%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E5%A4%A7%E5%AD%B8)
+- 南美唯一的一种熊：[眼镜熊，也叫安第斯熊](https://zh.wikipedia.org/wiki/%E7%9C%BC%E9%8F%A1%E7%86%8A)
+- [World Wildlife Fund: WWF](https://www.worldwildlife.org/)
+- [World Wrestling Entertainment](https://www.wwe.com/)
+- [中国科学院西双版纳热带植物园](http://www.xtbg.ac.cn/)
+- [杨丽萍 - 《孔雀舞》](https://www.bilibili.com/video/av9749399)
+- [《孔雀舞》- 中国经典舞蹈](https://www.bilibili.com/video/av3090681)
+- [山人乐队的小站](https://site.douban.com/shanren/)
+- [山人乐队 - 网易云音乐](https://music.163.com/#/artist?id=12717)
+- [牛干巴](https://baike.baidu.com/item/%E7%89%9B%E5%B9%B2%E5%B7%B4)
+- [朱鹮保护概况](https://zhuanlan.zhihu.com/p/25867087)
+- [四川3名男子因想吃天鹅肉，竟在天鹅湖偷了十四只黑天鹅](http://www.sohu.com/a/227065245_355556)
+- 节目中提到的那条[取悦自己的微博](https://weibo.com/1658758601)
+- [穿山甲保育影片 Pangolin Conservation](https://www.youtube.com/watch?v=gC272rZMa_U)
+- [禾花雀](https://zh.wikipedia.org/wiki/%E9%BB%84%E8%83%B8%E9%B9%80)
+- [从“无危”到“极危”，下一个禾花雀是谁？](http://views.ce.cn/view/ent/201712/08/t20171208_27169329.shtml)
+- [新加坡野生动物园](http://www.visitsingapore.com.cn/see-do-singapore/nature-wildlife/fun-with-animals/night-safari/)
+- [新加坡动物园](http://www.visitsingapore.com.cn/see-do-singapore/nature-wildlife/fun-with-animals/singapore-zoo/)
+- [云豹 - wiki](https://zh.wikipedia.org/wiki/%E9%9B%B2%E8%B1%B9)
+- [San Diego Zoo](http://zoo.sandiegozoo.org/)
+- [袋熊 - wiki](https://zh.wikipedia.org/wiki/%E8%A2%8B%E7%86%8A)
+- [蜂猴 - wiki](https://zh.wikipedia.org/wiki/%E8%9C%82%E7%8C%B4)
+- [熊狸 - wiki](https://zh.wikipedia.org/wiki/%E7%86%8A%E7%8B%B8)
+- [为什么要保护野生动物？](https://www.guokr.com/article/89800/)
+
+### 人物简介
+
+- 老陈：[热心市民陈牢板](https://weibo.com/ccxianren)
+- 大沈：自我定位太难了
+- Lijia：爱喝啤酒力量大
+- Hanlin：正努力讲普通话
+
+### 音乐
+
+- Wild World - Music by <a href="https://icons8.com/music/author/ilya-truhanov">Ilya Truhanov</a> from <a href="https://icons8.com/music">Fugue</a>
