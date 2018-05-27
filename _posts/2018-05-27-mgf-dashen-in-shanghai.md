@@ -4,11 +4,9 @@ layout: post
 title: "三个麦高芬 #5 上海女子图了个鉴了"
 date: 18-05-27 13:58:07
 tags: [普通话, 麦高芬]
-categories: [draft]
+categories: [podcast]
 
 ---
-
-节目链接：[网易云音乐 - 三个麦高芬 #4 周末看了场球](http://music.163.com/#/program?id=1369357767)
 
 ### 相关链接
 
