@@ -10,6 +10,8 @@ categories: [podcast]
 
 大沈聊了聊她最近看《北京女子图鉴》想到的。
 
+节目链接：[网易云音乐 - 三个麦高芬 #4 周末看了场球](http://music.163.com/#/program?id=1369468564)
+
 ### 相关链接
 
 - [东京女子图鉴](https://movie.douban.com/subject/26921674/)
