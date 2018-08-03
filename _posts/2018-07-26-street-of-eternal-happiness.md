@@ -13,7 +13,7 @@ categories: [podcast]
 ### 相关链接
 
 - [《长乐路》](https://book.douban.com/subject/27116307/)
-- [Rob Schmitz 史明智 | Twitter](https://twitter.com/rob_schmitz)
+- [Rob Schmitz 史明智 - Twitter](https://twitter.com/rob_schmitz)
 - 节目中提到的另外两本书分别是[《上海生死劫》（Life and Death in Shanghai）](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E7%94%9F%E6%AD%BB%E5%8A%AB) 和 [Wild Swans: Three Daughters of China](https://en.wikipedia.org/wiki/Wild_Swans)
 - [好奇心日报](http://www.qdaily.com)
 - 作者史明智在自己网站上贴出[本书第三版再版审查时被删](http://robschmitz.com/chinese/)
