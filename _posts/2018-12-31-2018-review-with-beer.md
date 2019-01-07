@@ -27,6 +27,7 @@ categories: [podcast]
 - [Lover Boy 88](https://music.163.com/song?id=864647456)
 - [DO WHAT YOU CAN'T](https://www.youtube.com/watch?v=jG7dSXcfVqE)
 - [太阳剧社](https://baike.baidu.com/item/%E5%A4%AA%E9%98%B3%E5%89%A7%E7%A4%BE/18408552)
+- 节目最后提到的[话剧社公众号](https://mp.weixin.qq.com/s/9zuQwFOp1K5SYEY4DwdwoA)
 
 ### 人物简介
 
