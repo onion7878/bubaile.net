@@ -5,8 +5,11 @@ title: "#34 漫谈欧罗巴"
 date: 19-06-18 21:56:07
 tags: [四川话]
 categories: [podcast]
+permalink: /:categories/:short_year/europe
 
 ---
+
+是的，我们终于更新啦！期间大沈和 Lijia 搬去了德国生活，目前算是安顿了下来，所以这期我们请来了两位不久才从欧洲旅游回来的朋友一起聊聊欧洲的日与夜。
 
 ### 本期内容
 
