@@ -5,7 +5,7 @@ title: "#34 漫谈欧罗巴"
 date: 19-06-18 21:56:07
 tags: [四川话]
 categories: [podcast]
-permalink: /:categories/:short_year/europe
+permalink: /34
 
 ---
 
