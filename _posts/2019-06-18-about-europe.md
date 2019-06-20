@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "#34 欧洲"
+title: "#34 漫谈欧罗巴"
 date: 19-06-18 21:56:07
 tags: [四川话]
 categories: [podcast]
