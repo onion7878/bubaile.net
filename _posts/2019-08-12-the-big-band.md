@@ -11,7 +11,7 @@ permalink: /36
 
 刚看完最后一期《乐队的夏天》的我们趁热聊了聊节目中喜欢的乐队。
 
-*附上西哥和 Click#15 的合影：*
+附上西哥和 Click#15 的合影：
 
 ![西哥和 Click#15 的合影]({{site.url}}/assets/img/ep36/xg-click15.jpg)
 
