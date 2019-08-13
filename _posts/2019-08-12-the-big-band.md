@@ -15,6 +15,8 @@ permalink: /36
 
 ![西哥和 Click#15 的合影]({{site.url}}/assets/img/ep36/xg-click15.jpg)
 
+以及[西哥翻唱 Click#15 的 Get Funky](https://kg.qq.com/node/play?s=-I_EIM-IQoHZT-Vm)
+
 ### 本期内容
 
 - [西哥之前来录的节目是第六期](https://bubaile.net/podcast/2017/12/12/music-live-1.html)
