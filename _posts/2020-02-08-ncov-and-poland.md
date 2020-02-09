@@ -3,7 +3,7 @@
 layout: post
 title: "#38 这些天最轻松的夜晚"
 date: 20-02-08 21:31:40
-tags: [四川话, 普通话]
+tags: [四川话]
 categories: [podcast]
 permalink: /38
 
